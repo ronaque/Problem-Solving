@@ -8,4 +8,5 @@ add_executable(ProblemSolving main.cpp
         HackerRank/InputAndOutput.cpp
         CSES/MissingNumber.cpp
         CSES/Repetitions.cpp
-        CSES/IncreasingArray.cpp)
+        CSES/IncreasingArray.cpp
+        "HackerRank/Project Euler/1.cpp")
