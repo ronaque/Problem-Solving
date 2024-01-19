@@ -12,4 +12,6 @@ add_executable(ProblemSolving main.cpp
         "HackerRank/Project Euler/1.cpp"
         CSES/Permutations.cpp
         "CSES/NumberSpiral .cpp"
+        "HackerRank/Project Euler/2.cpp"
+        "HackerRank/Project Euler/3.cpp"
 )
