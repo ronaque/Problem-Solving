@@ -9,4 +9,7 @@ add_executable(ProblemSolving main.cpp
         CSES/MissingNumber.cpp
         CSES/Repetitions.cpp
         CSES/IncreasingArray.cpp
-        "HackerRank/Project Euler/1.cpp")
+        "HackerRank/Project Euler/1.cpp"
+        CSES/Permutations.cpp
+        "CSES/NumberSpiral .cpp"
+)
