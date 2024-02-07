@@ -14,4 +14,7 @@ add_executable(ProblemSolving main.cpp
         "CSES/NumberSpiral .cpp"
         "HackerRank/Project Euler/2.cpp"
         "HackerRank/Project Euler/3.cpp"
+        "Geeks4Geeks/Reverse squared sum.cpp"
+        "Geeks4Geeks/Max Min.cpp"
+        "Geeks4Geeks/Peak element.cpp"
 )
