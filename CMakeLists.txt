@@ -17,4 +17,5 @@ add_executable(ProblemSolving main.cpp
         "Geeks4Geeks/Reverse squared sum.cpp"
         "Geeks4Geeks/Max Min.cpp"
         "Geeks4Geeks/Peak element.cpp"
+        "LeetCode/Merge Sorted Array.cpp"
 )
